@@ -31,3 +31,18 @@ span{
 .bottom-section{
     background-color: tomato;
 }
+.box{
+    background: lightgoldenrodyellow;
+    width: 300px;
+    text-align: ;
+
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+    border: 3px;
+    border-color: rgb(29, 53, 73);
+    border-style: dashed;
+
+    padding: 3px;
+}
