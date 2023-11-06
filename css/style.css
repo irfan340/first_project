@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-size:18px;
+    color: yellowgreen;
+}
+
+h1 {
+    color: brown;
+    font-family: Arial;
+}
+
+p {
+    font-size: 22px;
+    color: azure;
+}
+p{
+    font-size: 18px;
+    color: bisque;
+}
