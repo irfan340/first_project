@@ -1,3 +1,4 @@
+/*class is used for working with a section at a time */
 body {
     background-color: black;
     font-size:18px;
@@ -22,5 +23,11 @@ div{
 span{
     font-style: italic;
     font-size: 20px;
-    color: sandybrown;
+    color: whitesmoke;
+}
+.top-section{
+    background-color: goldenrod;
+}
+.bottom-section{
+    background-color: tomato;
 }
