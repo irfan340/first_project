@@ -57,3 +57,14 @@ span{
     text-decoration: underline;
     text-transform: capitalize;
 }
+a{
+    color: yellowgreen;
+
+}
+
+a:hover{
+    color: brown;
+}
+a:visited{
+    color: aqua;
+}
