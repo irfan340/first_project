@@ -1,18 +1,22 @@
 /*class is used for working with a section at a time */
+
 body {
     background-color: black;
     font-size:18px;
     color: yellowgreen;
+    font-family: sans-serif;
 }
 
 h1 {
     color: brown;
-    font-family: Arial;
+    font-family: OCR A Std;
 }
 
 p{
     font-size: 18px;
     color: bisque;
+    margin: 20px;
+    line-height: 1.5;
 }
 div{
     color: burlywood;
@@ -46,4 +50,10 @@ span{
     border-style: dashed;
 
     padding: 3px;
+}
+
+.bolder{
+    font-weight: bolder;
+    text-decoration: underline;
+    text-transform: capitalize;
 }
