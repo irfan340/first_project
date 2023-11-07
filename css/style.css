@@ -32,9 +32,10 @@ span{
     background-color: tomato;
 }
 .box{
-    background: lightgoldenrodyellow;
+    background-image: url(../img/little_monster.jpg);
+    background-position: left;
+    background-size: cover;
     width: 300px;
-    text-align: ;
 
     margin-top: 50px;
     margin-bottom: 20px;
