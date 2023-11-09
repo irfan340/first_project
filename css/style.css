@@ -77,3 +77,13 @@ a:visited{
     font-size: 100px;
     color: burlywood;
 }
+ol{
+    list-style: upper-roman;
+    background-color: blueviolet;
+    padding: 50px;
+}
+ol li{
+    background-color: brown;
+    margin-bottom: 15px;
+    list-style-position: inside;
+}
