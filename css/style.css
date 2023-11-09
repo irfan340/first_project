@@ -6,18 +6,18 @@ body {
     color: yellowgreen;
     font-family: sans-serif;
 }
-
-h1 {
-    color: brown;
-    font-family: OCR A Std;
-}
-
 p{
     font-size: 18px;
     color: bisque;
     margin: 20px;
     line-height: 1.5;
 }
+h1 {
+    color: brown;
+    font-family: OCR A Std;
+}
+
+
 div{
     color: burlywood;
     background: gray;
@@ -67,4 +67,13 @@ a:hover{
 }
 a:visited{
     color: aqua;
+}
+
+.specific{
+    background-color: rgb(83, 83, 221);
+    padding: 50px;
+}
+.specific p{
+    font-size: 100px;
+    color: burlywood;
 }
